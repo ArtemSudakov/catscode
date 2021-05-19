@@ -1,0 +1,31 @@
+.big-logo-text {
+    color: #FFC107;
+}
+span.bb-text {
+    color: #E91E63;
+}
+.single-course-btn {
+    background: #E91E63;
+    border: 2px solid #E91E63;
+}
+
+.main-title-yext {
+    font-size: 32px;
+}
+
+.single-course-btn {
+	padding: 8px 15px;
+	font-size: 18px; 
+}
+
+span.bb-text {
+	font-size: 132px;
+}
+
+.big-logo-text {
+	font-size: 82px;
+}
+
+.big-logo-img img {
+    max-width: 140px;
+}
